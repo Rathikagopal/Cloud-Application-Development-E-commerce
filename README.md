@@ -1,4 +1,4 @@
-# Artisanal E-Commerce Platform
+# E-Commerce Platform
 
 ## Overview
 This project is an artisanal e-commerce platform designed to connect skilled artisans with a global audience. It showcases handmade products, from exquisite jewelry to artistic home decor, and facilitates secure online transactions. This README provides instructions for setting up, configuring, and deploying the platform on IBM Cloud Foundry.
