@@ -1,0 +1,677 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Dolce Crudo Skinny Fit Jean",
+        "price": 864,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "American Eagle Slim-Jeans",
+        "price": 1800,
+        "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "American Eagle Lightly Washed Slim Fit Jeans",
+        "price": 950,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Broadstar High-Rise Wide Jeans",
+        "price": 1679,
+        "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "American Eagle Slim-Jeans",
+        "price": 945,
+        "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Dolce Crudo High-Rise Skinny Jeans",
+        "price": 869,
+        "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Broadstar Solid Wide Jeans",
+        "price": 1679,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "DNMX Light-Wash Skinny Fit Jean ",
+        "price": 1499,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+      }
+    },
+    {
+      "sys": {
+        "id": "9"
+      },
+      "fields": {
+        "title": "Lee Cooper Mid-Rise Slim Jean",
+        "price": 510,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-9.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10"
+      },
+      "fields": {
+        "title": "Janasya Round-Neck Cotton Top",
+        "price": 780,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-10.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "11"
+      },
+      "fields": {
+        "title": "Fery London Striped Top with Full Sleeves",
+        "price": 540,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-11.jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "12"
+      },
+      "fields": {
+        "title": "Slenor Floral Print Top with Puffed-Sleeves",
+        "price": 480,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-12.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "13"
+      },
+      "fields": {
+        "title": "Fery London Striped Top with Full Sleeves",
+        "price": 540,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-13.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "14"
+      },
+      "fields": {
+        "title": "Janasya Crew-Neck Cuff-Sleave Top",
+        "price": 999,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-14.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "15"
+      },
+      "fields": {
+        "title": "Kibo Floral Print Smocked Top",
+        "price": 548,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-15.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "16"
+      },
+      "fields": {
+        "title": "AZIRA Printed Round-Neck Top",
+        "price": 500,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-16.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "17"
+      },
+      "fields": {
+        "title": "Janasya Floral Print Top Mandarin Collar",
+        "price": 992,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-17.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "18"
+      },
+      "fields": {
+        "title": "DIVENA Floral Print Mardarin Collar Top ",
+        "price": 720,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-18.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "19"
+      },
+      "fields": {
+        "title": "Fery London Striped Top with Full Sleeves",
+        "price": 920,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-19.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "20"
+      },
+      "fields": {
+        "title": "DIVENA Floral Print Mardarin Collar Top",
+        "price": 720,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-20.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "21"
+      },
+      "fields": {
+        "title": "DIVENA Floral Print Mardarin Collar Top",
+        "price": 720,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-21 .jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "22"
+      },
+      "fields": {
+        "title": "Taniksh Saami Vol2 Kurti",
+        "price": 1500,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-22.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "23"
+      },
+      "fields": {
+        "title": "DIVENA Floral Print Mardarin Collar Top",
+        "price": 720,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-23.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "24"
+      },
+      "fields": {
+        "title": "Black Color Cotton Straight Kurti",
+        "price": 1599,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-24.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "25"
+      },
+      "fields": {
+        "title": "ANUBHUTEE Floral Printed Round-Neck Kurti",
+        "price": 522,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-25.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "26"
+      },
+      "fields": {
+        "title": "Laiba AM Vol 189 Beautiful Embroidery Work Kurti",
+        "price": 6002,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-26.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "27"
+      },
+      "fields": {
+        "title": "Adrika Refined Kurtis",
+        "price": 999,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-27.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "28"
+      },
+      "fields": {
+        "title": "Black Color Cotton Straight Kurti",
+        "price": 2400,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-28.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "28"
+      },
+      "fields": {
+        "title": "DIVENA Floral Print Mardarin Collar Top",
+        "price": 720,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-28.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "29"
+      },
+      "fields": {
+        "title": "Black Color Cotton Straight Kurti",
+        "price": 900,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-29.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "30"
+      },
+      "fields": {
+        "title": "ANUBHUTEE Floral Printed Round-Neck Kurti",
+        "price": 850,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-30.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "31"
+      },
+      "fields": {
+        "title": "Floral Printed Fashionable crepe Kurti",
+        "price": 450,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-31.jpeg"
+            }
+            
+          }
+        }
+      }
+    } ,
+    {
+      "sys": {
+        "id": "32"
+      },
+      "fields": {
+        "title": "DIVENA Floral Print Mardarin Collar Top",
+        "price": 720,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-32.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "33"
+      },
+      "fields": {
+        "title": "Net Pink Bollywood Party Wear Sarees",
+        "price": 3000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-33.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "34"
+      },
+      "fields": {
+        "title": "Attractive Mauve Pink Colored Ready to wear Designer Saree",
+        "price": 1020,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-34.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "35"
+      },
+      "fields": {
+        "title": "Silk Green Saree in Embroidered lace",
+        "price": 1500,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-35.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "36"
+      },
+      "fields": {
+        "title": "Clovia Latest Saree Design 2021party Wear Saree Catalog",
+        "price": 5700,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-36.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "37"
+      },
+      "fields": {
+        "title": "Royal Export Party Wear traditional look soft silk saree with blouse",
+        "price": 2500,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-37.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "38"
+      },
+      "fields": {
+        "title": "Black Saree with stone work",
+        "price": 2300,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-38.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "39"
+      },
+      "fields": {
+        "title": "Kanjivaram Silk Saree",
+        "price": 49000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-39.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "40"
+      },
+      "fields": {
+        "title": "White Colored Silk",
+        "price": 5000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-41.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "42"
+      },
+      "fields": {
+        "title": "PINK EMBROIDERED SILK SAREE WITH BLOUSE",
+        "price": 2500,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-42.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "43"
+      },
+      "fields": {
+        "title": "Wedding Wear Woven Kanjivaram Cotton Silk Saree",
+        "price": 4000,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-43.jpeg"
+            }
+            
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "44"
+      },
+      "fields": {
+        "title": "Shaded Blue Plain Art Silk Saree With Embroidered Border",
+        "price": 3295,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "./images/product-44.jpeg"
+            }
+            
+          }
+        }
+      }
+    }      
+  ]
+}

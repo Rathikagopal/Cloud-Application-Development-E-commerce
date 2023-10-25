@@ -246,6 +246,10 @@ body {
   color: var(--primaryColor);
   cursor: pointer;
 }
+.h4{
+  title
+}
+
 /*---------- End of Cart Item -------------------- */
 
 .cart-footer {
